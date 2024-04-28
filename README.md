@@ -1,4 +1,4 @@
-# Medical Insurance Cost Analysis - Interpreting Correlation
+# Medical Insurance Correlation Analysis
 In this activity, my primary goal was to identify correlations between various lifestyle choices and insurance costs.
 
 To achieve this, I systematically analysed an anonymised dataset, focusing on key factors such as BMI, smoker status, age, and number of children, using both visualisations and statistical methods.
